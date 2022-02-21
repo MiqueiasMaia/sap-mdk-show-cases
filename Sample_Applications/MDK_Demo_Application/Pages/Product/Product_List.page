@@ -4,8 +4,8 @@
 			{
 				"IsIconCircular": false,
 				"OnPress": "/MDKDemoApp/Actions/Product/ProductFilter.action",
-				"Position": "right",
-				"Text": "Filter",
+				"Position": "Right",
+				"Caption": "Filter",
 				"Visible": true
 			}
 		]

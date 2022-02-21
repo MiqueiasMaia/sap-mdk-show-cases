@@ -6,7 +6,7 @@
 				"OnPress": "/MDKDemoApp/Actions/CloseModalComplete.action",
 				"Position": "Right",
 				"SystemItem": "Done",
-				"Text": "Done",
+				"Caption": "Done",
 				"Visible": true
 			}
 		]

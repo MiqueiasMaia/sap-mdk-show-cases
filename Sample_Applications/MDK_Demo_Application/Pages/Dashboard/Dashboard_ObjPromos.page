@@ -5,8 +5,8 @@
 				"Icon": "sap-icon://customer",
 				"IsIconCircular": false,
 				"OnPress": "/MDKDemoApp/Actions/Application/UserMenuPopover.action",
-				"Position": "left",
-				"Text": "User",
+				"Position": "Left",
+				"Caption": "User",
 				"Visible": true
 			}
 		]

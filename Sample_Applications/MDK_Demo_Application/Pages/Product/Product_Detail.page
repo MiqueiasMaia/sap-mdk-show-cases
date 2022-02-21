@@ -4,9 +4,9 @@
 			{
 				"IsIconCircular": false,
 				"OnPress": "/MDKDemoApp/Actions/Product/NavToProduct_Detail_Edit.action",
-				"Position": "right",
+				"Position": "Right",
 				"SystemItem": "Edit",
-				"Text": "Edit",
+				"Caption": "Edit",
 				"Visible": true
 			}
 		]

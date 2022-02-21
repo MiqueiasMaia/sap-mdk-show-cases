@@ -4,16 +4,16 @@
 			{
 				"IsIconCircular": false,
 				"OnPress": "/MDKDemoApp/Actions/CloseModalCanceled.action",
-				"Position": "left",
+				"Position": "Left",
 				"SystemItem": "Cancel",
-				"Text": "Cancel"
+				"Caption": "Cancel"
 			},
 			{
 				"IsIconCircular": false,
 				"OnPress": "/MDKDemoApp/Actions/Product/UpdateProductDetails.action",
-				"Position": "right",
+				"Position": "Right",
 				"SystemItem": "Done",
-				"Text": "Done"
+				"Caption": "Done"
 			}
 		]
 	},

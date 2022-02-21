@@ -4,17 +4,17 @@
 			{
 				"IsIconCircular": false,
 				"OnPress": "/MDKDemoApp/Actions/CloseModalCanceled.action",
-				"Position": "left",
+				"Position": "Left",
 				"SystemItem": "Cancel",
-				"Text": "Cancel",
+				"Caption": "Cancel",
 				"Visible": true
 			},
 			{
 				"IsIconCircular": false,
 				"OnPress": "/MDKDemoApp/Actions/CloseModalComplete.action",
-				"Position": "right",
+				"Position": "Right",
 				"SystemItem": "Done",
-				"Text": "Done",
+				"Caption": "Done",
 				"Visible": true
 			}
 		]
@@ -115,7 +115,7 @@
 		"#Page:Product_Filter/#Control:PromoFilter/#Value"
 	],
 	"ToolBar": {
-		"Controls": [
+		"Items": [
 			{
 				"Clickable": true,
 				"Enabled": true,
